@@ -17,7 +17,7 @@
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Become an honored volunteer for the Neurology Conference 2025, which will help create memories and get you in touch with leaders in neurology. Engage in a healthy exchange of ideas while expanding your network and knowledge in neurological care. ",
+            "content": "Become an honored volunteer for the Psychiatry and Behavioral Health Conference 2025, which will help create memories and get you in touch with leaders in neurology. Engage in a healthy exchange of ideas while expanding your network and knowledge in neurological care. ",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
@@ -32,7 +32,7 @@
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Engage in our Neurology Conference to explore a hub of professionals, innovators, and pioneers in the subject. Be a force of change in neurology!",
+            "content": "Engage in our Psychiatry and Behavioral Health Conference to explore a hub of professionals, innovators, and pioneers in the subject. Be a force of change in neurology!",
             "headding": "Footer content"
         },
         "offers_content": {
@@ -73,11 +73,11 @@
             "banner_conent_id": "13",
             "image": "images/banner.jpg",
             "headding": "Innovations in Neurological Science: Bridging Clinical Practice and Research",
-            "tag_line": "Neurology-NAPC November 25-26, 2026 in Amsterdam, Netherlands",
+            "tag_line": "Psychiatry and Behavioral Health-NAPC November 25-26, 2026 in Amsterdam, Netherlands",
             "content": "Connect with the brain pioneers in neurology at the Neurology Innovations Conference. Join us for key-note sessions, expert panel discussions, and the latest neurological research and treatment presented. Download our brochure and learn more about this monumental event this October",
             "page": "index",
             "status": "1",
-            "cid": "10056"
+            "cid": "10057"
         }
     },
     "sessions": [
